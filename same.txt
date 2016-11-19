@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 tlhogi
 melvin
-=======
-tlhogi
->>>>>>> origin/hlogi
