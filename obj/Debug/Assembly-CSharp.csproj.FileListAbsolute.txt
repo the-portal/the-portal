@@ -1,0 +1,69 @@
+D:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEditor.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.DataContract.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.xml
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEditor.xml
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.dll
+D:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.pdb
+C:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\ImageVideoContactPicker.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEditor.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.DataContract.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.xml
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEditor.xml
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Work\Unity\Projects\The Portal\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Work\Unity\Projects\The Portal\obj\Debug\Assembly-CSharp.pdb
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\ImageVideoContactPicker.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEditor.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Mono.Cecil.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Unity.DataContract.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.xml
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEditor.xml
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Work\Unity\Projects\The Portal\The Portal\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Work\Unity\Projects\The Portal\The Portal\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Work\Unity\Projects\The Portal\The Portal\obj\Debug\Assembly-CSharp.dll
+D:\Work\Unity\Projects\The Portal\The Portal\obj\Debug\Assembly-CSharp.pdb
