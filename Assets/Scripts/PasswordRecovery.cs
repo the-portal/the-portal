@@ -73,7 +73,7 @@ public class PasswordRecovery : MonoBehaviour {
 		yield return download;
 
 		if(!string.IsNullOrEmpty(download.error)) {
-			//print( "Error downloading: " + download.error );
+			print( "Error downloading: " + download.error );
 			EnableErrorMessage("No Connection");
 		} else {
 			// show the highscores
